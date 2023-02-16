@@ -1,3 +1,0 @@
-# Front-end and back-end will be served from same origin
-VUE_APP_BACK_API_NODE={PUBLIC_URL}/robotoff
-VUE_APP_WEBSITE_URL={PUBLIC_URL}
